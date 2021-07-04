@@ -1,0 +1,7 @@
+{
+  "domain": "dev-bwjex6cd.us.auth0.com",
+  "clientId": "y4DCSS2oP26RIF2vgw8zpzWGREAU6h5B",
+  "audience": "https://apibackend/",
+  "serverUrl": "http://localhost:52839"
+  
+}
